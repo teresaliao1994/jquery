@@ -1,0 +1,21 @@
+.d-flex{
+  display: flex;
+}
+.justify-content-end{
+  justify-content: end;
+}
+.justify-content-between{
+  justify-content: space-between;
+}
+.align-items-center{
+  align-items: center;
+}
+.font-s{
+  font-size: 15px;
+}
+.text-primary{
+  color: $primary;
+}
+.mb-l{
+  margin-bottom: 4rem;
+}

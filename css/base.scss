@@ -1,0 +1,17 @@
+*,*::before,*::after{
+  box-sizing: border-box;
+}
+
+a{
+  text-decoration: none;
+  &:hover{
+    text-decoration: none;
+  }
+}
+img{
+
+}
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+}
